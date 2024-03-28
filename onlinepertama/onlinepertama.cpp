@@ -35,3 +35,5 @@ void getInput() {
         cin >> arr[i];
     }
 }
+
+
